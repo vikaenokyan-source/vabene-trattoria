@@ -1,0 +1,16 @@
+<svg class="seal" viewBox="0 0 200 200" role="img" aria-label="Vabene!, траттория с 2014 года">
+  <defs>
+    <path id="seal-top" d="M 34 100 A 66 66 0 0 1 166 100"/>
+    <path id="seal-bottom" d="M 17 100 A 83 83 0 0 0 183 100"/>
+  </defs>
+  <circle class="seal__disc" cx="100" cy="100" r="99"/>
+  <circle class="seal__ring" cx="100" cy="100" r="92"/>
+  <circle class="seal__ring" cx="100" cy="100" r="56"/>
+  <text class="seal__big"><textPath href="#seal-top" startOffset="50%" text-anchor="middle">VABENE!</textPath></text>
+  <text class="seal__low"><textPath href="#seal-bottom" startOffset="50%" text-anchor="middle">ТРАТТОРИЯ</textPath></text>
+  <text class="seal__year" x="29" y="104" text-anchor="middle">2014</text>
+  <text class="seal__year" x="171" y="104" text-anchor="middle">2014</text>
+  <text class="seal__mid" x="100" y="88" text-anchor="middle">PIZZA</text>
+  <text class="seal__mid" x="100" y="105" text-anchor="middle">PASTA</text>
+  <text class="seal__mid" x="100" y="122" text-anchor="middle">ANTIPASTI</text>
+</svg>

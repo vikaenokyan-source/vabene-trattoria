@@ -1,0 +1,5 @@
+.DS_Store
+.hallmark/shots/
+.vercel
+node_modules/
+src/assets/

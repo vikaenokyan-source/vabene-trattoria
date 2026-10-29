@@ -1,0 +1,14 @@
+/* Legal pages: one prose column on the site's paper, ink and faces. */
+.doc-head { border-bottom: 1px solid var(--color-rule); }
+.doc-head__row { display: flex; align-items: center; justify-content: space-between; min-height: var(--nav-h); }
+.wordmark--sm { font-size: var(--text-2xl); }
+.doc { padding-block: var(--space-3xl); }
+.doc > * { max-width: 68ch; }
+.doc h1 { font-size: var(--text-section); max-width: 20ch; margin-bottom: var(--space-md); }
+.doc h2 { font-size: var(--text-xl); margin: var(--space-2xl) 0 var(--space-sm); }
+.doc p, .doc li { line-height: 1.7; }
+.doc p + p { margin-top: var(--space-sm); }
+.doc ul { padding-left: 1.2em; margin: var(--space-sm) 0; }
+.doc__meta { font-size: var(--text-sm); font-weight: 500; color: var(--color-muted); }
+.fill { padding: 0 0.25em; border: 1px dashed var(--color-muted); border-radius: 3px; color: var(--color-muted); -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.doc-foot { padding-block: var(--space-xl); border-top: 1px solid var(--color-rule); font-size: var(--text-sm); color: var(--color-muted); }

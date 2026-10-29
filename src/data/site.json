@@ -1,0 +1,40 @@
+{
+  "restaurants": [
+    {
+      "id": "presnya",
+      "short": "Пресня",
+      "name": "На Пресне",
+      "address": "ул. Пресненский Вал, 14к4",
+      "near": "метро «Улица 1905 года», 460 м",
+      "hours": "ежедневно с 9:30 до 23:00",
+      "phone": "+7 (968) 752-64-44",
+      "tel": "+79687526444",
+      "email": "vabene1905@yandex.ru",
+      "route": "https://yandex.ru/maps/org/trattoriya_vabene/238294571168/"
+    },
+    {
+      "id": "grizodubovoy",
+      "short": "Гризодубовой",
+      "name": "На Гризодубовой",
+      "address": "ул. Гризодубовой, 4к4",
+      "near": "ЦСКА, Полежаевская, Сокол",
+      "hours": "с собой с 9:30, доставка с 10:30 до 23:00",
+      "phone": "+7 (968) 741-32-23",
+      "tel": "+79687413223",
+      "email": "vabenepizza@yandex.ru",
+      "route": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D1%83%D0%BB.%20%D0%93%D1%80%D0%B8%D0%B7%D0%BE%D0%B4%D1%83%D0%B1%D0%BE%D0%B2%D0%BE%D0%B9%2C%204%D0%BA4"
+    },
+    {
+      "id": "stremyanny",
+      "short": "Стремянный",
+      "name": "В Стремянном",
+      "address": "Стремянный пер., 26",
+      "near": "Павелецкая",
+      "hours": "с собой с 9:30, доставка с 10:30 до 23:00",
+      "phone": "+7 (968) 739-64-46",
+      "tel": "+79687396446",
+      "email": "vabenepizza@yandex.ru",
+      "route": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D1%82%D1%80%D0%B5%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B5%D1%80.%2C%2026"
+    }
+  ]
+}
